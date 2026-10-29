@@ -1,0 +1,1 @@
+date,variant,task_id,task_type,accepted,usage_before,usage_after,usage_unit,tool_calls,browser_actions,retries,human_revision_minutes,output_ref,notes
